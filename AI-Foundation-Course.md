@@ -19,6 +19,7 @@ By the end of the course, learners should be able to:
 - Build or experiment with simple machine-learning models using appropriate tools.
 - Evaluate model performance and identify limitations, bias, and risks.
 - Formulate an AI-based response to a practical problem and communicate the supporting evidence.
+- Formulate an AI agent
 
 ## 3. Target Learners and Prerequisites
 
