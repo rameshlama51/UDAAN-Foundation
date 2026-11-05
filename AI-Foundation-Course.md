@@ -21,7 +21,7 @@ By the end of the course, learners should be able to:
 - Formulate an AI-based response to a practical problem and communicate the supporting evidence.
 - Formulate an AI agent
 
-## 3. Target Learners and Prerequisites
+## 3. Target Learners and Prerequisites........
 
 **Target learners:** Beginners, students, educators, professionals, and other learners interested in understanding and applying AI.
 
