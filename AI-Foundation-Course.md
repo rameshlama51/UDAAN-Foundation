@@ -1,4 +1,4 @@
-# AI Foundation Course
+# AI Foundation Course -new
 
 ## 1. Course Overview
 
