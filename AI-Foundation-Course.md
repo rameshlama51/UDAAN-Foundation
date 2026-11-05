@@ -170,7 +170,7 @@ The following decisions should be made with the course team before delivery:
 - Local examples and sector-specific problem scenarios.
 - Required hardware, software, connectivity, and learning materials.
 - Detailed session plans, exercises, and assessment rubrics.
-
+   -rtretertert
 ---
 
 **Document status:** Initial curriculum framework  
