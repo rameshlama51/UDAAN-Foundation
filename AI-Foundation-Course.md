@@ -1,8 +1,8 @@
 # AI Foundation Course -new
 
-## 1. Course Overview nrert
+## 1. Course Overview 
 
-The AI Foundation Course introduces learners to the core concepts, methods, tools, and applications of Artificial Intelligence (AI). It builds a practical understanding of how AI systems represent information, learn from data, make predictions, and support decision-making.
+The AI Foundation Course introduces learners to the core concepts ..., methods, tools, and applications of Artificial Intelligence (AI). It builds a practical understanding of how AI systems represent information, learn from data, make predictions, and support decision-making.
 
 The course combines conceptual foundations with hands-on exploration and problem-based learning (PBL). Learners will move from identifying real-world problems to selecting appropriate AI approaches, experimenting with data and models, and communicating evidence-based results.
 
