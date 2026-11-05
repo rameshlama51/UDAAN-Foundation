@@ -212,7 +212,9 @@
 
   window.addEventListener('hashchange', show);
 
-  fetch('/course.md', { cache: 'no-store' })
+  // Relative path so it works both from server.js (/course.md) and from a
+  // static host under a subpath (e.g. GitHub Pages project sites).
+  fetch('course.md', { cache: 'no-store' })
     .then(r => { if (!r.ok) throw new Error('HTTP ' + r.status); return r.text(); })
     .then(md => {
       const course = parseCourse(md);
