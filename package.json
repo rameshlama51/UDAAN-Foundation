@@ -1,0 +1,9 @@
+{
+  "name": "udaan-foundation-course-viewer",
+  "version": "1.0.0",
+  "description": "Localhost interface for the AI Foundation Course",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
